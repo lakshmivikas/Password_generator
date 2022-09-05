@@ -1,0 +1,12 @@
+ MAIL              WEBSITE     PASSWORD
+ vikas@gmail.com | Amazon | amazon@123
+ vikas@gmail.com | Flipkart | flipkart@123
+ vikas@gmail.com | Neflix | netflix@123
+ vikas@gmail.com | Facebook | facebook@123
+ vikas@gmail.com | Instagram | instagram@123
+ vikas@gmail.com | Twitter | twitter@123
+ vikas@gmail.com | Yahoo! | yahoo@123
+ vikas@gmail.com | AppleID | apple@123
+ vikas@gmail.com | AmazonPrime | amazonP@123
+ vikas@gmail.com | RANDOM_test | rok$2mtB+$9d(5N
+
